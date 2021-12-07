@@ -2,5 +2,7 @@
 Signature Recognition
 
 Project Review 1 - Completed
+
 Project Review 2 - Completed
+
 Final Review - Done!
